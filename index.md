@@ -1,11 +1,9 @@
 # Scope
 
-Because of development of scientific measurements, theory, and algorithms to analyze quantum many-body systems synchronized with growth of computational resources, new trends for materials science emerge, such as accurate ab initio numerical approaches, and data scientific, as well as machine learning approaches bridging numerical and experimental studies for correlated electron systems. New generation exaflops scale supercomputers, including Fugaku that has just begun running in Kobe, Japan, will accelerate the trends.
-To develop close and fruitful co-operations in the world among theoretical, numerical, and experimental researchers who study on the physics of correlated electron systems, we will organize an international web workshop.
-
-The scope of the workshop is twofold:
-We will first develop a solid collaboration to seriously examine and compare the accuracy and efficiency of rapidly developing numerical approaches. Then, we focus on enigmatic puzzles in correlated electrons awaiting novel computational and theoretical approaches, such as mechanisms of high-temperature superconductivity and realization of quantum spin liquids from theoretical, numerical, and experimental perspectives.
-Due to the spread of COVID-19 pandemic all over the world possibly continuing in the coming fall, the international workshop will be held as an online workshop.
+基礎科学およびテクノロジーの発展によって、物質が示す量子力学的な効果を活用した、超伝導量子干渉計から量子計算機まで、様々なデバイスが発明されてきました。それらのデバイスが機能を発現する上で、固体中の多体電子間の量子もつれが重要な役割を果たしてきました。
+物質の量子力学的な振る舞いを明らかにするためにも、量子計算機の中の量子ビットがどう振る舞うのかを知る上でも、スーパーコンピュータを活用した大規模数値シミュレーションは重要です。
+本シンポジウムでは、多体電子間の量子もつれが重要な役割を果たす量子物質、強相関高温超伝導体およびトポロジカル物質における、先端的分光学と大規模数値計算による研究、それらを結びつける機械学習の新たな発展について紹介します。
+さらに量子計算機の応用として注目を集めている古典計算と量子計算の協奏について、最先端の研究動向を、大規模古典計算との関わりに注目しながら紹介し、今後の発展についての議論を促進することを目指します。
 
 # Date & Venue
 
