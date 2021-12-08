@@ -16,13 +16,13 @@
 
 水上渉　(大阪大学)
 
-# Program
+# プログラム
 
-- [Program](https://fugaku-efqm.github.io/EFQM2020/program) Program of the workshop
+- [プログラム](https://fugaku-efqm.github.io/EFQM2020/program) Program of the workshop
 - 
 # 登録
 
-登録 [Here](https://docs.google.com/forms/d/1rwmE6K3eM2XluFawffUTzySRkpXwGPURUeLesnJrKuo/edit)．
+[登録](https://docs.google.com/forms/d/1rwmE6K3eM2XluFawffUTzySRkpXwGPURUeLesnJrKuo/edit)．
 
 - 登録締め切り: 2022年2月14日(月)
 - google formで登録できない方は、お名前、emailアドレス、ご所属を 
