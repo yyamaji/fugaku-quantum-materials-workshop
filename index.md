@@ -22,30 +22,30 @@
 - 
 # 登録
 
-[登録](https://docs.google.com/forms/d/1rwmE6K3eM2XluFawffUTzySRkpXwGPURUeLesnJrKuo/edit)．
+[登録フォーム](https://docs.google.com/forms/d/1rwmE6K3eM2XluFawffUTzySRkpXwGPURUeLesnJrKuo/edit)
 
 - 登録締め切り: 2022年2月14日(月)
 - google formで登録できない方は、お名前、emailアドレス、ご所属を 
 YAMAJI.Youhei [at] nims.go.jpへお送りください。
 
 
-# Notice
+# お知らせ
 
 - 登録された参加者のみに会議用Zoom linkをお送りします。
 - 登録された方のみご参加ください。Zoom linkの再配布はご遠慮ください。
 
 -----
 
-## Organizers
+## 組織委員
 
 山地　洋平 (物質・材料研究機構)
 
 今田 正俊 (早稲田大学/豊田理研)
 
-### Web page
+### Webページ管理
 
 山地　洋平 (物質・材料研究機構)
 
-## Contact
+## 問い合わせ先
 
 YAMAJI.Youhei [at] nims.go.jp
