@@ -18,7 +18,7 @@
 
 # プログラム
 
-- [プログラム](https://fugaku-efqm.github.io/EFQM2020/program)
+- [プログラム](https://yyamaji.github.io/fugaku-quantum-materials-workshop/program)
 
 # 登録
 
