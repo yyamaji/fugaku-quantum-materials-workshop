@@ -1,0 +1,24 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+h2.date {
+  text-align: center;
+  // color: $header-bg-color-secondary;
+  background-color: $border-color;
+}
+
+div.chair {
+  text-align: right;
+  font-size: small;
+  margin-bottom: -0.5rem;
+  margin-top: -0.5rem;
+}
+
+p.notice {
+  background-color: #ffa7a7;
+  color: #000000;
+  padding: 1rem;
+  font-weight: bold;
+}
