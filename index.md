@@ -18,8 +18,8 @@
 
 # プログラム
 
-- [プログラム](https://fugaku-efqm.github.io/EFQM2020/program) Program of the workshop
-- 
+- [プログラム](https://fugaku-efqm.github.io/EFQM2020/program)
+
 # 登録
 
 [登録フォーム](https://docs.google.com/forms/d/1rwmE6K3eM2XluFawffUTzySRkpXwGPURUeLesnJrKuo/edit)
