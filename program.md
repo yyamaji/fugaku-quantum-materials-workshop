@@ -4,9 +4,13 @@
 
 <h2 id="0216" class="date"><a href="abstracts#0216">2月16日</a></h2>
 
+- 趣旨説明 13:00-13:40
+
 <!-- <div class="chair">Chair:  </div> -->
 
-20:00-23:00 (GMT+9) **Theory 1: Quantum spin liquid**
+13:40-14:15 **先端分光学**
+
+- 13:40-14:15 藤森　淳 (早稲田大学)
 
 <!-- [tmp](abstracts#yamaji)-->
 
