@@ -22,11 +22,11 @@
 
 # 登録
 
-<!-- [登録フォーム](https://docs.google.com/forms/d/1rwmE6K3eM2XluFawffUTzySRkpXwGPURUeLesnJrKuo/edit) -->
+[登録フォーム](https://forms.gle/VRfVGrt71LPp9CJk7)
 
 - 登録締め切り: 2022年2月14日(月)
 - google formで登録できない方は、お名前、emailアドレス、ご所属を 
-YAMAJI.Youhei [at] nims.go.jpへお送りください。
+fugaku.qm2021 [at] gmail.comへお送りください。
 
 
 # お知らせ
@@ -50,4 +50,4 @@ YAMAJI.Youhei [at] nims.go.jpへお送りください。
 
 ## 問い合わせ先
 
-YAMAJI.Youhei [at] nims.go.jp
+fugaku.qm2021 [at] gmail.com
