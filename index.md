@@ -12,13 +12,13 @@
 
 # 招待講演
 
-<!-- 山本直樹 (慶應大学) -->
+山本直樹 (慶應大学)
 
-<!-- 水上渉　(大阪大学) -->
+水上渉　(大阪大学)
 
 # プログラム
 
-<!-- - [プログラム](https://yyamaji.github.io/fugaku-quantum-materials-workshop/program) -->
+ - [プログラム](https://yyamaji.github.io/fugaku-quantum-materials-workshop/program)
 
 # 登録
 
