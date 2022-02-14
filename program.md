@@ -4,7 +4,7 @@
 
 <h2 id="0216" class="date"><a href="abstracts#0216">2月16日</a></h2>
 
-13:15-13:40 **趣旨説明**
+13:15-15:40 **趣旨説明**
  
 <!-- <div class="chair">Chair:  </div> -->
 
